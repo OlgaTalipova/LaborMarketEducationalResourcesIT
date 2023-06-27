@@ -6,7 +6,7 @@ Study of the interaction between the labor market and educational resources in t
 
 Предметом исследования являлись данные по IT-вакансиям c сайта HH.ru и  сведения о размещенных он-лайн IT-курcах на платформе obrazoval.ru
 Произведен сбор и очистка данных, выполнен разведывательный анализ, проверены статистические гипотезы и построены регресиионные модели.
-Построен аналитичекий дашборд, доступный по ссылке https://datalens.yandex/sugwa6cxhvo2j
+Опубликован аналитичекий дашборд, доступный по ссылке https://datalens.yandex/sugwa6cxhvo2j
 
 ![image](https://github.com/OlgaTalipova/LaborMarketEducationalResourcesIT/assets/95358146/ad741a1e-a0aa-439d-95cb-c6ad31f3f8a1)
 
